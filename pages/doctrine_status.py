@@ -550,7 +550,7 @@ def main():
         logger.info(f"Cleared ship selection and session state")
         logger.info(f"Session state ship list: {st.session_state.ship_list_state}")
         logger.info(f"Session state csv ship list: {st.session_state.csv_ship_list_state}")
-        logger.info(f"\n{"-"*60}\n")
+        logger.info(f'\n{"-"*60}\n')
         st.rerun()
     
     # Module selection
