@@ -14,7 +14,7 @@ pages = {
 pg = st.navigation(pages)
 
 st.set_page_config(
-        page_title="WinterCo Markets",
+        page_title="Insidious Market",
         page_icon="🐼",
         layout="wide"
     )
